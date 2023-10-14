@@ -18,7 +18,7 @@ https://t.me/dotplayer
 ## 截图
 
 
-![1](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_1.png) 
+![1](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_1.png) 
 ![2](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_2.png) 
 ![3](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_3.png) 
 ![4](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_4.png) 
