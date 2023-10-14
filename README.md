@@ -6,7 +6,7 @@ https://t.me/dotplayer
 
 # 安装
 1. 下载ipa后自签
-2. 在订阅页面>添加>从URL添加,输入以下网址,https://raw.githubusercontent.com/m3u8playlist/dp/master/site2.json
+2. 在订阅页面>添加>从URL添加,输入以下网址,https://raw.githubusercontent.com/iniTATTOO/tattoo/master/site2.json
 
 # 注意事项
 
@@ -19,11 +19,11 @@ https://t.me/dotplayer
 
 
 ![1](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_1.png) 
-![2](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_2.png) 
-![3](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_3.png) 
-![4](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_4.png) 
-![5](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_5.png) 
-![6](https://raw.githubusercontent.com/m3u8playlist/dp/master/IMG_6.png) 
+![2](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_2.png) 
+![3](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_3.png) 
+![4](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_4.png) 
+![5](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_5.png) 
+![6](https://raw.githubusercontent.com/iniTATTOO/tattoo/master/IMG_6.png) 
    
 
 
